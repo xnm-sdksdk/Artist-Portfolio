@@ -8,3 +8,9 @@
 ### Project Images
 
 <img src="./images/nav-bar.png">
+
+<img src="./images/products-grid.png">
+
+<img src="./images/call-to-action.png">
+
+<img src="./images/contact.png">
