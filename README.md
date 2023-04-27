@@ -4,4 +4,7 @@
 
 ### In terms of seo this landing page fulfils minimum requirements.
 
+
+### Project Images
+
 <img src="./images/nav-bar.png">
